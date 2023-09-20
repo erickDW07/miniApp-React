@@ -1,0 +1,24 @@
+hr{
+  margin: 0rem;
+}
+
+.center-grid {  
+  display: grid;
+  place-items: center;
+}
+
+.form-login {
+  padding: 20px;
+  margin: 100px 30%;
+  border-color: black;
+  border-style: solid;
+  border-radius: 5px;
+}
+
+.white{
+  color: white;
+}
+
+.container-50{
+ margin: 50px;
+}
